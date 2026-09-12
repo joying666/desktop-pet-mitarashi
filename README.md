@@ -41,7 +41,7 @@ npm start
 
 `npm start` launches both mascot windows and creates the tray icon.
 
-## Controls
+## Control
 
 | Action | Result |
 | --- | --- |
