@@ -47,7 +47,7 @@ npm start
 | --- | --- |
 | Double-click the tray icon | Reveal all mascot windows without stealing focus |
 
-## Tray Menu
+## Tray 
 
 | Menu Item | What It Does |
 | --- | --- |
