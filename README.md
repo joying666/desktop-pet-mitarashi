@@ -20,7 +20,7 @@
 
 Desktop Pet Mitarashi keeps mascot windows walking around the outer edges of your desktop. The current app launches two independent mascots, a cat and a penguin, each in its own transparent click-through Electron window so they can turn corners separately and drift at slightly different speeds.
 
-## Highlights
+## High
 
 - Launch two independent mascots that move around the current display without blocking clicks.
 - Switch between `Running`, `Idle`, `Random`, and `Codex` modes from the tray.
